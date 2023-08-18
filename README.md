@@ -1,1 +1,1 @@
-# platonus.github.io
+# platonus
