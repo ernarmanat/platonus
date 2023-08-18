@@ -1,1 +1,1 @@
-# platonus
+# platonus-privacy
